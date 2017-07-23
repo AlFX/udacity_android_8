@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The (Android) Guardian</string>
+    <string name="placeholder_author">Joey Ramone</string>
+    <string name="placeholder_date">June 6, 2006</string>
+    <string name="placeholder_section">Music</string>
+    <string name="placeholder_title">Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go.
+        Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go.
+        Hey ho let\'s go. Hey ho let\'s go. Hey ho let\'s go. </string>
+</resources>
